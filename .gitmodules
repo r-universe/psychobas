@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "text2sdgData"]
+	path = text2sdgData
+	url = https://github.com/psychobas/text2sdgdata
+	shallow = true
+	registered = true
